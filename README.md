@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahsan Bashir</h1>
 <h3 align="center">A passionate SE (Software Engineering) student from NTU, Faisalabad, Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-bashir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsan-bashir" alt="ahsan-bashir" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce Site](https://manager.sa/)
 
 - 👯 I’m looking to collaborate **with other Developers and Tech Enthusiasts**
@@ -18,7 +14,7 @@
 - ⚡ Fun fact **I am humorous.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ahsan bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan bashir" height="30" width="40" /></a>
 </p>
 

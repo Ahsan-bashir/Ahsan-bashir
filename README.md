@@ -3,7 +3,7 @@
 
 <image align="right" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
 
-- 🔭 I’m currently working on [Customers Management Sysytem]([https://manager.sa/](https://github.com/Ahsan-bashir/Nodejs_User_Management))
+- 🔭 I’m currently working on [Customers Management Sysytem](https://github.com/Ahsan-bashir/Nodejs_User_Management)
 
 - 👯 I’m looking to collaborate **with other Developers and Tech Enthusiasts**
 

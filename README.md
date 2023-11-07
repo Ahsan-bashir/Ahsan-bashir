@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there , I'm Ahsan Bashir</h1>
 <h3 align="center">A passionate SE (Software Engineering) student from NTU, Faisalabad, Pakistan</h3>
 
-<image align="right" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
+<image align="right" width="400" src="profile_pic.jpg" />
 
 - 🔭 I’m currently working on [Customers Management System](https://github.com/Ahsan-bashir/Nodejs_User_Management)
 

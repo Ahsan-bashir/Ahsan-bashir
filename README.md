@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 there , I'm Ahsan Bashir</h1>
 <h3 align="center">A passionate SE (Software Engineering) student from NTU, Faisalabad, Pakistan</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmbilal&label=Profile%20views&color=0e75b6&style=flat" alt="devmbilal" /> </p>
 <image align="right" width="400" src="profile_pic.jpg" />
 
 - 🔭 I’m currently working on [Customers Management System](https://github.com/Ahsan-bashir/Nodejs_User_Management)

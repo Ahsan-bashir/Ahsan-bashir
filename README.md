@@ -1,7 +1,7 @@
 
   <h1 align="center">👋 Hello, I'm Ahsan Bashir</h1>
   <h3 align="center">🎓 Software Engineering student from NTU, Faisalabad, Pakistan</h3>
-  <img align="right" src="profile_pic.jpg" width="200px">
+  <img align="right" src="profile_pic.jpg" width="300px">
   <p align="left">🔭 I’m currently working on a <a href="https://github.com/Ahsan-bashir/Nodejs_User_Management">Customers Management System</a></p>
   <p align="left">🌱 I’m currently learning <a href="https://github.com/Ahsan-bashir/-Building-RESTful-APIs-Using-Node.js-and-Express">Node.js/Express.js</a></p>
   <p align="left">💬 Ask me about API's and Backend Development</p>
@@ -10,8 +10,10 @@
 
 
 <h3 align="center">🤝 Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ahsan-bashir-65b33422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan bashir" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahsen___ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsan bashir" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devahsenali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahsan bashir" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">🛠 Languages and Tools:</h3>

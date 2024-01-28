@@ -5,16 +5,10 @@
   <p align="left">🔭 I’m currently working on a <a href="https://github.com/Ahsan-bashir/Nodejs_User_Management">Customers Management System</a></p>
   <p align="left">🌱 I’m currently learning <a href="https://github.com/Ahsan-bashir/-Building-RESTful-APIs-Using-Node.js-and-Express">Node.js/Express.js</a></p>
   <p align="left">💬 Ask me about API's and Backend Development</p>
-  <p align="left">📫 Reach me at: dev.ahsen.ali@gmail.com</p>
+<p align="left">📫 Reach me at: <a href="mailto:dev.ahsen.ali@gmail.com">dev.ahsen.ali@gmail.com</a></p>
   <p align="left">⚡ Fun fact: I am humorous.</p>
-
-<h3 align="center">🔭 Current Projects</h3>
-<p align="center">
-I'm currently working on a <a href="https://github.com/Ahsan-bashir/Nodejs_User_Management">Customers Management System</a> and learning <a href="https://github.com/Ahsan-bashir/-Building-RESTful-APIs-Using-Node.js-and-Express">Node.js/Express.js</a>.
-</p>
-
-<h3 align="center">🌱 Interests and Hobbies</h3>
-<p align="center">
+  
+<p align="left">
 When I'm not coding, I enjoy reading tech blogs, playing video games, and exploring new places.
 </p>
 

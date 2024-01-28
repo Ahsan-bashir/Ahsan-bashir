@@ -1,7 +1,7 @@
 
   <h1 align="center">👋 Hello, I'm Ahsan Bashir</h1>
   <h3 align="center">🎓 Software Engineering student from NTU, Faisalabad, Pakistan</h3>
-  <img align="right" src="profile_pic.jpg" width="300px">
+  <img align="right" src="profile_pic.jpg" width="400px">
   <p align="left">🔭 I’m currently working on a <a href="https://github.com/Ahsan-bashir/Nodejs_User_Management">Customers Management System</a></p>
   <p align="left">🌱 I’m currently learning <a href="https://github.com/Ahsan-bashir/-Building-RESTful-APIs-Using-Node.js-and-Express">Node.js/Express.js</a></p>
   <p align="left">💬 Ask me about API's and Backend Development</p>

@@ -1,29 +1,6 @@
-.video-container {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-
   <h1 align="center">👋 Hello, I'm Ahsan Bashir</h1>
   <h3 align="center">🎓 Software Engineering student from NTU, Faisalabad, Pakistan</h3>
-<div class="video-container">
-  <video id="animated-icon" muted loop autoplay>
-    <source src="path/to/your/video.mp4" type="video/mp4">
-    <source src="path/to/alternative/video.webm" type="video/webm">
-    Your browser doesn't support the video tag.
-  </video>
-</div>
+ <img align="right" src="H:\Uni Courses Data\Cyber Security Club\Society Content\Presentation Related Assets\Assets\Illustrations + Images\Purple Sec\cyber-resilience-main.jpg" width="300px">
   <p align="left">🔭 I’m currently working on a <a href="https://github.com/Ahsan-bashir/Nodejs_User_Management">Customers Management System</a></p>
   <p align="left">🌱 I’m currently learning <a href="https://github.com/Ahsan-bashir/-Building-RESTful-APIs-Using-Node.js-and-Express">Node.js/Express.js</a></p>
   <p align="left">💬 Ask me about API's and Backend Development</p>
